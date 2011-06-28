@@ -1,12 +1,12 @@
-====== {{event.start|date:"F"}} {{event.start.year}} SLUG Meeting ======
+====== {{event.start|date:"F"}} {{event.start.year}} Sydney Linux Users Group Meeting ======
 
 ====Summary====
 
  * Date: Friday, {{event.start}}
  * Start: Arrive at 6pm for a 6:30pm start
- * Format: TBA
+ * Format: 60 minutes of Lightning Talks 
  * RSVP: {{ req.host_url }}{{event.get_url}}
- * Suggest or sign up for a talk at {{ req.host_url }}/talks
+ * Propose a talk: {{ req.host_url }}/talks
 
 ==== Details ====
 
@@ -44,8 +44,9 @@ street.
 If you drive, then you can look for parking on the suburban streets around
 the office (or pay for parking at the Casino), and then walk from there.
 
+There are bicycle racks outside the building.
+
 === Afterwards ===
 
-We'll be aiming to finish by 8pm and will be heading to the Pyrmont Bridge
-Hotel (PBH) afterwards to socalise and eat dinner. The PBH is marked on the
-map.
+We aim to finish by 8pm, then head to the Pyrmont Bridge Hotel (PBH) to socalise 
+and eat dinner. The PBH is marked on the map.
